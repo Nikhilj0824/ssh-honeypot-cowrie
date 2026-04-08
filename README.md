@@ -29,9 +29,6 @@ Ubuntu
 Kali Linux
 Cowrie Honeypot
 VirtualBox
-📸 Screenshots
-
-(Add your images here)
 
 💡 Use Cases
 Beginner cybersecurity project
