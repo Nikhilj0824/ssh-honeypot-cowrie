@@ -1,22 +1,15 @@
-🔐 SSH Honeypot using Cowrie
+Hi, I'm Nikhil 👋
 
-📌 Overview
+🎯 Aspiring Cybersecurity Analyst
 
-This project focuses on simulating real-world SSH attacks using a honeypot to understand attacker behavior in a controlled environment.
+🔐 Interested in:
 
-🎯 What I Did-
-Deployed Cowrie honeypot on Ubuntu
-Configured network using Bridged Adapter
-Simulated brute-force SSH attacks from Kali Linux
-Captured login attempts and attacker activity
+Network Security
+SOC Operations
+Ethical Hacking
 
-🛠️ Tools Used-
-Ubuntu
-Kali Linux
-Cowrie
-VirtualBox
+📌 Projects:
 
-📊 Observations-
-Multiple login attempts using common credentials
-Captured usernames and passwords
-Observed attacker interaction patterns
+SSH Honeypot using Cowrie 
+
+📫 Open to opportunities in Cybersecurity
