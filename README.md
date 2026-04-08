@@ -10,6 +10,6 @@ Ethical Hacking
 
 📌 Projects:
 
-SSH Honeypot using Cowrie 
+SSH Honeypot using Cowrie : https://github.com/Nikhilj0824/ssh-honeypot-cowrie
 
 📫 Open to opportunities in Cybersecurity
